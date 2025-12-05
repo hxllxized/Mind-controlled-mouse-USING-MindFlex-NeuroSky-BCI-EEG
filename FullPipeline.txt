@@ -1,0 +1,1 @@
+Mindflex → HC-05 → Arduino Pro Micro → Computer
